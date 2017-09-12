@@ -1,0 +1,6 @@
+TODO:
+
+OPL logging (see: https://librepilot.atlassian.net/wiki/display/LPDOC/UavTalk#UavTalk-OPLformat)
+NCurses Interface
+Regular polling for relavent data (accel, gyro, etc)
+Add config option for GCS Telem
